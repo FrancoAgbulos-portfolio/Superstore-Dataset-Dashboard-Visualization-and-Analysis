@@ -1,0 +1,33 @@
+﻿1. Business Problem
+The Superstore has seen tremendous growth over the years. Its sales are strong, but profitability is inconsistent and negative in certain areas. From 2014 to 2017, the Superstore had 5,009 orders and made $2.3 million in sales with a 12.47% profit margin. Despite the high numbers and positive trends, some products and areas are not contributing effectively to overall profitability. The goal of this report and analysis is to identify the factors contributing to low profit performance and recommend strategies to improve profitability and margin performance.
+
+
+2. Data Analysis
+Analysis was done through a Power BI dashboard using historical sales data from the Superstore, focusing on total sales, profit, and orders by year, region/state, customer type, and product type. Visualizations were used to evaluate regional performance, product and category profitability, and timely trends, as well as factoring in any discounts active during time periods.
+
+
+3. Key Findings
+The West region is the most profitable of all regions ($108,000), while Central underperforms with $39,000. Across all years and categories, there has always been a consistent loss for furniture in the Central region states. California, New York, Washington, and Michigan are the top-performing states, all having profits of more than $20,000, while Texas, Ohio, Pennsylvania, and Illinois have the biggest losses, resulting in losses of more than $10,000 each. 
+
+The Technology category is the most profitable category, contributing 50.79% to the total profit, followed by Office Supplies with 42.77%, then Furniture with 6.44%. Furniture occasionally leads to annual losses in certain regions, such as Central in 2016 and South in 2017.
+
+Furniture products tend to make more in sales, but usually result in a low profit or a loss. Although Office Supplies products end up being the lowest-selling, it usually has hundreds or thousands more orders compared to Furniture, resulting in more product variety and flexibility in financial results.
+
+Trends tend to spike towards the end of the year in Quarter 4, as sales reach $20,000 to $30,000 and Profit reaches $3,000 to $4,000, the highest points of each year. Discounts do not result in more profits and sales. Higher average discounts, around 15% off during April or May, do not yield the highest spikes compared to the results of September through December.
+
+
+4. Recommendations
+Reevaluate pricing and costs for underperforming states, such as Texas and Illinois, and underperforming categories, mainly Furniture.
+Prioritize high-margin categories and products, primarily Technology, to drive overall profitability.
+Investigate any possible operational or customer inefficiencies in the Central region to assess potential problems and improve financial performance.
+Maintain strong Q4 demand by coordinating processes with inventory and pricing strategies to maximize profit.
+Reduce or optimize discount prices to maintain higher profit and keep customer retention and action.
+
+Based on the results, to counter potential losses and ensure stronger profitability for the Superstore, customer engagement, specifically in struggling areas and departments, should be the primary focus. Specialized advertising campaigns in the lower-profitable areas for the top-selling products could potentially increase profits. Further investigation must be done to fully understand the areas, such as customer demographics, company and item production, and other sellers competing within the same vicinity. For the other regions, production and business should continue as normal, as they show no signs of stopping.
+
+
+5. Expected Impact
+Implementing these recommendations should improve profit margins, lower losses in struggling regions and products, and make sure that ongoing sales growth leads to better financial results.
+
+
+Data provided from: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
